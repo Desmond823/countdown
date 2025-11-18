@@ -40,7 +40,7 @@ const TimerInput = ({
             </div>
 
             <div className = "space-y-2">
-                <label className = "text-xs font-semibold uppercase">Hours</label>
+                <label className = "text-xs font-semibold uppercase">Minutes</label>
                 <input 
                     type = "number"
                     min = "0"
